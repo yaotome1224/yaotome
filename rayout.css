@@ -1,0 +1,60 @@
+﻿@charset"utf-8";
+/* CSS Document */
+
+body {
+	font-size:18px;
+	background:#ddddff;
+}
+#apple {
+	margin:auto;
+	width:640px;
+	padding:20px;
+	background:white;
+}
+#jikan {
+	font-size:16px;
+}
+nav ul li {
+	list-style-type:none;
+	float:left;
+	padding:10px 20px;
+	border-radius:10px;
+	margin:2px;
+	background:#dddddd;
+}
+nav ul li:hover {
+	background:#ccffff;
+}
+nav ul li a {
+	text-decoration:none;
+}
+#pankuzu {
+	clear:both;
+	position:relative;
+	top:20px;
+	margin:40px 20px;
+}
+h1 {
+	color:#cc66ff;
+}
+h2 {
+	clear:both;
+}
+h3 {
+	position:relative;
+	top:20px;
+}
+article li {
+	list-style-type:none;
+	border-left:5px solid #6666ff;
+	padding:5px 10px;
+}
+article li a {
+	text-decoration:none;
+}
+article li a:hover {
+	color:#cccccc;
+}
+footer small {
+	text-align:center;
+}
